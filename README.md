@@ -78,8 +78,6 @@ Para un mejor entendimiento cambiamos VA por x – VB por y. Resolviendo el sist
 
 ![image](https://user-images.githubusercontent.com/116777118/203905840-ca710579-47ec-4b1b-b0a3-90cd6ba17373.png)
 
-![image](https://user-images.githubusercontent.com/116777118/204003776-04db7441-7379-4337-8d76-ac8179563207.png)
-
 ![image](https://user-images.githubusercontent.com/116777118/204004498-ff76170d-e985-4efe-8196-a814f9fe8002.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/204004551-3e207db7-ffc7-42e1-9239-67d2facccf06.png)
