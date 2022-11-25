@@ -1,6 +1,13 @@
 ## PRACTICA-No.-3-ANALISIS-DE-NODOS.
 # Informe Laboratorio
 
+- **Integrantes** 
+
+Josue Chavez
+
+Domenica Espin
+
+Henrry Leon
 
 **3.1. OBJETIVO DE LA PRÁCTICA**
 
