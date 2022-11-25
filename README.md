@@ -78,6 +78,22 @@ Para un mejor entendimiento cambiamos VA por x – VB por y. Resolviendo el sist
 
 ![image](https://user-images.githubusercontent.com/116777118/203905840-ca710579-47ec-4b1b-b0a3-90cd6ba17373.png)
 
+![image](https://user-images.githubusercontent.com/116777118/204003776-04db7441-7379-4337-8d76-ac8179563207.png)
+
+![image](https://user-images.githubusercontent.com/116777118/204004498-ff76170d-e985-4efe-8196-a814f9fe8002.png)
+
+![image](https://user-images.githubusercontent.com/116777118/204004551-3e207db7-ffc7-42e1-9239-67d2facccf06.png)
+
+![image](https://user-images.githubusercontent.com/116777118/204004675-d80516fe-a88d-4f0e-b9a7-90a643334f35.png)
+
+![image](https://user-images.githubusercontent.com/116777118/204004904-4e99cfcf-0084-4eae-b1b7-d7627e5f75ce.png)
+
+Tabla correspondiente a las mediciones de voltaje en cada nodo del circuito. 
+
+![image](https://user-images.githubusercontent.com/116777118/204007586-440a59d7-5465-4769-873c-9a0397ac8e37.png)
+
+![image](https://user-images.githubusercontent.com/116777118/204008558-3390157d-4247-41cc-8862-184c5ddb710d.png)
+
 **3.4. VIDEO**
 
 
