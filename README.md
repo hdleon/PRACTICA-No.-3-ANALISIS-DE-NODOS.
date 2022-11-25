@@ -10,12 +10,11 @@
 
 ![Ley de OHM](https://user-images.githubusercontent.com/116777118/203902108-95e6f9c5-a469-42d9-88fb-5ada4a45c035.png)
 
-![MÉTODO DEL VOLTAJE EN NODOS](https://user-images.githubusercontent.com/116777118/203902139-2629adde-431f-4b34-86b3-da185c69171a.png)
-
 ![image](https://user-images.githubusercontent.com/116777118/203901850-a924c734-82a0-4834-83fc-70e292969ab1.png)
 
 ![image](https://user-images.githubusercontent.com/116777118/203901992-ef931b2f-d2b6-4f43-9081-6bcd247c1b26.png)
 
+![MÉTODO DEL VOLTAJE EN NODOS](https://user-images.githubusercontent.com/116777118/203902139-2629adde-431f-4b34-86b3-da185c69171a.png)
 
 **MATERIAL O EQUIPO:**
 
@@ -49,7 +48,35 @@
 
 **3.3. PROCEDIMIENTO**
 
+1.	Primero identificamos los nodos presentes en el circuito. 
 
+![image](https://user-images.githubusercontent.com/116777118/203904772-92520688-1329-4909-a3d2-b69936d5476b.png)
+
+2.	Luego identificamos la polaridad y las corrientes presentes. 
+
+![image](https://user-images.githubusercontent.com/116777118/203904862-d4582457-b59b-4213-a263-27b699ba109f.png)
+
+3.	Colocamos etiquetas a los elementos para facilitar los cálculos. 
+
+![image](https://user-images.githubusercontent.com/116777118/203904923-1c735f27-3161-46f0-93ca-1850c8755e49.png)
+
+4.	Analizaremos el nodo A y B ya que son principales, los nodos E y C no, porque estos corresponden a fantasmas o irrelevantes, mientras que el nodo D lo tomaremos como nodo referencial.  
+
+Las intensidades de corriente para cada nodo la analizaremos según la Ley de Corrientes de Kirchhoff, en dónde: 
+
+![image](https://user-images.githubusercontent.com/116777118/203905050-5eed26ad-1e32-43a9-979d-92428452ba40.png)
+
+Entonces tenemos: 
+
+![image](https://user-images.githubusercontent.com/116777118/203905621-928dbcb4-6a3d-4f91-b0d3-45275d9c2d59.png)
+
+Reemplazando por los valores que tenemos como datos. 
+
+![image](https://user-images.githubusercontent.com/116777118/203905725-be62b214-8df8-4c47-ad0a-adc0b25c4d12.png)
+
+Para un mejor entendimiento cambiamos VA por x – VB por y. Resolviendo el sistema de ecuaciones generado, obtenemos. 
+
+![image](https://user-images.githubusercontent.com/116777118/203905840-ca710579-47ec-4b1b-b0a3-90cd6ba17373.png)
 
 **3.4. VIDEO**
 
