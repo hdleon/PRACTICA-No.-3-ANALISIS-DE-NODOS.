@@ -94,8 +94,20 @@ Tabla correspondiente a las mediciones de voltaje en cada nodo del circuito.
 
 **3.4. VIDEO**
 
+https://youtu.be/QOxjAdnbSPg
 
 **3.5. CONCLUSIONES**
 
+•	La polaridad de la fuente va a determinar el sentido de la corriente.
+
+•	La ley de Ohm nos dice que la intensidad va a ser directamente proporcional al voltaje e inversamente proporcional a la resistencia.
+
+•	Para medir el voltaje en cada nodo debemos colocar la punta positiva en el nodo y la negativa a tierra.
+
+•	La ley de corrientes de Kirchhoff nos dice que la intensidad que entra a un nodo es igual a la que sale del mismo.
+
+•	La ley de voltajes de Kirchhoff nos dice que la suma de todas las caídas de tensión es igual al voltaje de la fuente.
+
+•	Debemos identificar cada voltaje en cada nodo y establecer relaciones con las resistencias existentes en el circuito.
 
 
